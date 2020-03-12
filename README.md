@@ -5,6 +5,8 @@ My Portfolio
 In the process of becoming a web developer i have created a portfolio so that i can showcase my applications 
 and projects to potential employers and clients because a portfolio is often the first point of contact for employers and is important to have it clean and informative to showcase my strongest work.
 
+View it here: https://anil1992-rgb.github.io/Portfolio/
+
 -----------------
 Table of Contents
 -----------------
@@ -42,11 +44,5 @@ Credits
 	*w3schools.com
 	*github.com
 	*stackoverflow.com
-
-
------------------------------------------------------------------
-
-
-*This project is licensed under the terms of the MIT license.
 
 
